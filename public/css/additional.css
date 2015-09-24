@@ -1,0 +1,20 @@
+.pop {
+  position: absolute;
+  border: 1px solid #ddd;
+  border-radius: 3px; }
+  .pop a {
+    color: #333333;
+    width: 100%;
+    text-align: left; }
+    .pop a:hover {
+      background-color: #e9f3f8; }
+
+.pop-menu {
+  background-color: #fafafa;
+  width: 138px; }
+
+.single-dropzone {
+  .dz-image-preview, .dz-file-preview {
+    display: none;
+  }
+}
